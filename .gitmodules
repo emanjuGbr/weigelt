@@ -1,0 +1,4 @@
+[submodule "emanjuGbr/DigitalWorkbook"]
+	path = emanjuGbr/DigitalWorkbook
+	url = git@github.com:emanjuGbr/DigitalWorkbook.git
+	branch = master
